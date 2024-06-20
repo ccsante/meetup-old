@@ -1,7 +1,6 @@
 ---
-title: Welcome to Quartz
+title: "Creative Coding Santé: Monthly Meetup Invitation"
 ---
-### Creative Coding Santé: Monthly Meetup Invitation
 
 Hey everyone!
 

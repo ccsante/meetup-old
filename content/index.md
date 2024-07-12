@@ -5,11 +5,12 @@ title: "Creative Coding Santé: Monthly Meetup Invitation"
 Hey everyone!
 
 Are you into blending creativity and technology? Looking to connect with a community that celebrates the art of coding in India? Then join us for Creative Coding Santé, a series of events dedicated to promoting Creative Coding in India!
+Take a look at this [Youtube playlist](https://www.youtube.com/playlist?list=PLCjehBF0qtwqpFIuWvtJK4tBw2SXU4IWH) of previous presentations.
 
 **Event Details:**
 
 - **What:** Creative Coding Santé Monthly Meetup
-- **When:** 22/06/2024 
+- **When:** 20/07/2024 
 - **Where:** Hybrid Event. Online and In-person at [Paper Crane Lab](https://www.instagram.com/papercranelab/)
 
 **About the Event:**

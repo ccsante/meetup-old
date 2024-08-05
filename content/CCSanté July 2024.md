@@ -12,6 +12,7 @@
 
 ## ✨ Transcript
 Here is a (not very accurate but might be somewhat helpful for a quick look) transcript from Zoom
+
 *if you'd like to help us improve the transcript, please reach out!*
 
 

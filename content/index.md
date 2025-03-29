@@ -13,7 +13,6 @@ Here is a [Youtube playlist](https://www.youtube.com/playlist?list=PLCjehBF0qtwq
 **Event Details:**
 
 - **What:** Creative Coding Santé Monthly Meetup
-- **When:** 17/08/2024 
 - **Where:** Hybrid Event. Online and In-person at [Paper Crane Lab](https://www.instagram.com/papercranelab/)
 
 **About the Event:**

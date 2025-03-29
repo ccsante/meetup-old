@@ -1,6 +1,7 @@
 # March 2025 
-
+![[スクリーンショット 2025-03-29 午後8.22.46.png]]
 Video coming soon-ish 
+
 ## ✨ Speakers
 
 - Satyarth Mishra Sharma

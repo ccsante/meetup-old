@@ -6,7 +6,7 @@ Hey everyone!
 
 Are you into blending creativity and technology? Looking to connect with a community that celebrates the art of coding in India? Then join us for Creative Coding Santé, a series of events dedicated to promoting Creative Coding in India!
 
-Take a look at what we have been up to [[meetup index|here]].
+Take a look at what we have been up to [[Meetups|here]].
 
 Here is a [Youtube playlist](https://www.youtube.com/playlist?list=PLCjehBF0qtwqpFIuWvtJK4tBw2SXU4IWH) as well! 
 

@@ -1,2 +1,0 @@
-- [[CCSanté July 2024]]
-- [[CCSanté June 2024]]

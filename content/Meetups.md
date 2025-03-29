@@ -42,6 +42,8 @@ Video coming soon 🥁
 
 # July 2024
 
+![[Screenshot 2024-07-20 at 20.23.47 1.png]]
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sV9qQWDVOWI?si=hPBvwotMUmm1HrXZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## ✨ Speakers
@@ -60,6 +62,8 @@ Here is a (not very accurate but might be somewhat helpful for a quick look) tra
 [[July 2024]]
 
 # June 2024
+
+![[WhatsApp Image 2024-06-22 at 8.05.47 PM.jpeg]]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2L8wrFVIuHY?si=yQnLIt1HFSt7QXbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

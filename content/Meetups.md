@@ -1,3 +1,14 @@
+# March 2025 
+
+Video coming soon-ish 
+## ✨ Speakers
+
+- Satyarth Mishra Sharma
+- Nisha 
+- Siddhant Kapadne
+
+*Links and other extras* -> [[March 2025]]
+
 # February 2025 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/39yD1Wk0-Ww?si=P4NHxdEigzKkNPmL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
